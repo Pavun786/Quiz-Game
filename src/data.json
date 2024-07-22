@@ -1,0 +1,29 @@
+[
+
+  {
+    "id" : 1,
+    "question" : "Which hook is used to perform side effects in react ?",
+    "options" : ["useState","useEffect","useParams","useMemo"],
+    "correctOption" : "useEffect"
+  },
+   {
+    "id" : 2,
+    "question" : "How to access router parameter in nodejs?",
+    "options" : ["req.cookie","req.params","req.body","req.header"],
+    "correctOption" : "req.params"
+  },
+  {
+    "id" : 3,
+    "question" : "Which method use to retrive data from api?",
+    "options" : ["SetTimeOut","Callback","Fetch","Prompt"],
+    "correctOption" : "Fetch"
+  },
+   {
+    "id" : 4,
+    "question" : "Which event is used to button click?",
+    "options" : ["onClick","onMouseOver","onChange","hover"],
+    "correctOption" : "onClick"
+  }
+
+
+]
